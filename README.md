@@ -9,7 +9,7 @@
 - FORK THE REPOSITORY [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot/fork)
 
 ## `Scan QR Code For Session`
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@nipunarangana/Blue-Lione-Bot?v=1)
+[![Cheems Bot](https://replit.com/@nipunarangana/BlueLioneQR?v=1)
 
 ## `SETTINGS`
 
